@@ -21,18 +21,22 @@ a {
 
 
  .navbarHome:hover{
+    padding: 7px;
     background-color: slategray;
     border-radius: 5px;
 }
 .navbarAboutme:hover{
+    padding: 7px;
     background-color: slategray;
     border-radius: 5px;
 }
 .navbarFavorite:hover{
+    padding: 7px;
     background-color: slategray;
     border-radius: 5px;
 }
 .navbarContact li:hover{
+    padding: 7px;
     background-color: slategray;
     border-radius: 5px;
 } 
